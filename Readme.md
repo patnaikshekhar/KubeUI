@@ -5,5 +5,6 @@ This is a sample project that I use to refer to the client-go api. It is a sampl
 ## Viewing various objects
 ![List](https://raw.githubusercontent.com/patnaikshekhar/KubeUI/master/Screenshot1.PNG)
 
+
 ## Creating a new Deployment
 ![Create](https://raw.githubusercontent.com/patnaikshekhar/KubeUI/master/Screenshot2.PNG)
